@@ -1,1 +1,2 @@
 echo "Contenido de texto.txt"
+"hola a todos"
