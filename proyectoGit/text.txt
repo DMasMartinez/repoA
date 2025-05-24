@@ -1,2 +1,3 @@
 echo "Contenido de texto.txt"
 "hola a todos"
+"me despido de todos"
